@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recyclerview_Select_Five_Rows.iml" filepath="$PROJECT_DIR$/.idea/modules/Recyclerview_Select_Five_Rows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Recyclerview_Select_Five_Rows.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Recyclerview_Select_Five_Rows.app.iml" />
+    </modules>
+  </component>
+</project>
